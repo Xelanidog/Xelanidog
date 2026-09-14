@@ -1,5 +1,5 @@
-Product manager by day. I learn by building: I pick an app I want to use,
-and take it all the way to release.
+Product manager turned product builder. When a problem, big or small, has no solution
+I'm happy with, I build one and take it all the way to release, so others can use it too.
 
 **Shipped**
 
